@@ -134,5 +134,6 @@ namespace MetadataExtractor
 
             return directories;
         }
+
     }
 }
